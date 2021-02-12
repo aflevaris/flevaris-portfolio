@@ -11,3 +11,6 @@ My work here at the university involves a lot of donor-related data, and I have 
 Visualizing Government Debt: 
 
 <iframe src="https://data.oecd.org/chart/6gIT" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gIT" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+
+Using Flourish, I was able to manipulate the above data to create the following visualization: 
+<div class="flourish-embed flourish-chart" data-src="visualisation/5282925"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

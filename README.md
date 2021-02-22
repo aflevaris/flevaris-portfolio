@@ -50,7 +50,7 @@ Mock-ups:
 
 The two people I asked to review my two mock-ups both gave excellent feedback. My husband’s immediate reactions were to read the title, look at the graph, and then check the legend to see what each line meant. He felt that the colors were a little difficult to read in the first graph in the beginning of October, but then were clearer to distinguish towards the peak. My friend felt similar to this, understanding what the chart represented and felt a broad audience could interpret that it was showing COVID-19 data for Allegheny County. They both felt that the second graph, including the bar charts with a line chart, were the most aesthetically pleasing and easy to interpret. They liked the colors, legend placement, and that I included the source data. My husband suggested changing the 7 day average to hospitalizations and getting rid of the ICU numbers, which he felt looked pretty stagnant and didn’t add much to story. My friend thought the graph could be improved by changing the dates at the bottom to months, with tick marks for each week. I liked both of their ideas and decided to incorporate them into my final solution. 
 
-In the final, I also made the colors less loud than the Infogram mock-up. Below is the final result, comparing daily cases with hospitalizations. 
+In the final using Tableau, I also made the colors less loud than the Infogram mock-up. Below is the final result, comparing daily cases with hospitalizations. 
 
 Final: 
 

@@ -28,7 +28,7 @@ What makes the dot plot unique from the other two charts is its ability to compa
 
 ## Homework 3 and 4: Critique by Design 
 
-![alt text](https://github.com/aflevaris/flevaris-portfolio/blob/main/EuRmJ6sXcAQIuXs.jpg)
+![Initial Graph](EuRmJ6sXcAQIuXs.jpg)
 Link to visualization: https://twitter.com/dave_andersen/status/1362054094563737601 
 
 This visualization was found in a tweet by a CMU professor in reply to the Allegheny County Health Department. The county has done an excellent job at tracking COVID-19 data, as well as sharing the full data set with the public. This visualization in particular, however, could use some adjustments to make it less confusing and provide a clearer story: the virus peaked in December 2020, but is trending downward to the levels we saw in early fall. 
@@ -42,10 +42,10 @@ At first glance, the chart does a good job of showing a large spoke in December 
 Mock-ups: 
  
  Graph 1 - 
- ![alt text](https://github.com/aflevaris/flevaris-portfolio/blob/main/COVID1.JPG)
+ ![Graph 1](COVID1.JPG)
  
  Graph 2 - 
- ![alt text](https://github.com/aflevaris/flevaris-portfolio/blob/main/COVID2.JPG)
+ ![Graph 2](COVID2.JPG)
  
 
 The two people I asked to review my two mock-ups both gave excellent feedback. My husband’s immediate reactions were to read the title, look at the graph, and then check the legend to see what each line meant. He felt that the colors were a little difficult to read in the first graph in the beginning of October, but then were clearer to distinguish towards the peak. My friend felt similar to this, understanding what the chart represented and felt a broad audience could interpret that it was showing COVID-19 data for Allegheny County. They both felt that the second graph, including the bar charts with a line chart, were the most aesthetically pleasing and easy to interpret. They liked the colors, legend placement, and that I included the source data. My husband suggested changing the 7 day average to hospitalizations and getting rid of the ICU numbers, which he felt looked pretty stagnant and didn’t add much to story. My friend thought the graph could be improved by changing the dates at the bottom to months, with tick marks for each week. I liked both of their ideas and decided to incorporate them into my final solution. 
@@ -54,4 +54,4 @@ In the final using Tableau, I also made the colors less loud than the Infogram m
 
 Final: 
 
- ![alt text](https://github.com/aflevaris/flevaris-portfolio/blob/main/COVID3.png)
+ ![Final](COVID3.png)

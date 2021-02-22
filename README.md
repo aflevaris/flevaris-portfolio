@@ -29,6 +29,7 @@ What makes the dot plot unique from the other two charts is its ability to compa
 ## Homework 3 and 4: Critique by Design 
 
 ![alt text](https://github.com/aflevaris/flevaris-portfolio/blob/main/EuRmJ6sXcAQIuXs.jpg)
+Link to visualization: https://twitter.com/dave_andersen/status/1362054094563737601 
 
 This visualization was found in a tweet by a CMU professor in reply to the Allegheny County Health Department. The county has done an excellent job at tracking COVID-19 data, as well as sharing the full data set with the public. This visualization in particular, however, could use some adjustments to make it less confusing and provide a clearer story: the virus peaked in December 2020, but is trending downward to the levels we saw in early fall. 
 

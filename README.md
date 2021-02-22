@@ -52,6 +52,6 @@ The two people I asked to review my two mock-ups both gave excellent feedback. M
 
 In the final using Tableau, I also made the colors less loud than the Infogram mock-up. Below is the final result, comparing daily cases with hospitalizations. 
 
-Final: 
+Final:   
 
  ![Final](COVID3.png)

@@ -54,4 +54,4 @@ In the final using Tableau, I also made the colors less loud than the Infogram m
 
 Final:   
 
- ![Final](COVID3.png)
+ ![Final Viz](COVID3.png)

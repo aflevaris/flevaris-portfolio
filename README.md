@@ -8,7 +8,7 @@ My work here at the university involves a lot of donor-related data, and I have 
 
 ## Portfolio
 
-### Link to final project page: https://aflevaris.github.io/flevaris-portfolio/finalproject.md
+### Link to final project page: https://aflevaris.github.io/flevaris-portfolio/finalproject
 
 
 Visualizing Government Debt: 

@@ -10,6 +10,8 @@ Below is an outline of the story:
 -Introduction with data on University Advancement
 
 
+
+
 -Data Analysis and Current Situation
 
 ---Growth in 2018-2019 for undustry as a whole
@@ -17,11 +19,15 @@ Below is an outline of the story:
 ---COVID-19's impact on higher education in 2020, including furloughs, loss of donors 
 
 
+
+
 -Examples of Growth 
 
 ---CMU's fundraising growth
 
 ---Opportunities and trends across the full industry
+
+
 
 
 -Call to Action 
@@ -37,7 +43,11 @@ Below is an outline of the story:
  
 ## Data
 
-The data will come from a variety of sources, which work directly with universities to survey them and report out on the data that they receive. While some fundraising data is conifdential, organizations such as The Council for Advancement and Support of Education (CASE), The Chronice of Philanthropy, National Conference of State Legislatures (NCSL), and Insider HigherEd publish some of their results. For any interesting topic that I cannot get large datatsets for, I will pull the data directly from the data visualizations that they have put forth in their reporting. These trusted sources in the industry will help me tell the story of the past, present, and future of fundraising in higher education. I also have access to large datatsets from Carnegie Mellon, which I am able to use with permission from the University Advancement office. 
+The data will come from a variety of sources, which work directly with universities to survey them and report out on the data that they receive. While some fundraising data is conifdential, organizations such as The Council for Advancement and Support of Education (CASE), The Chronice of Philanthropy, National Conference of State Legislatures (NCSL), and Insider HigherEd publish some of their results. For any interesting topic that I cannot get large datatsets for, I will pull the data directly from the data visualizations that they have put forth in their reporting. These trusted sources in the industry will help me tell the story of the past, present, and future of fundraising in higher education. My goal is to use the data to create charts like the above sketches, focusing on fundraising dollar and donor numbers, while also looking at industry trends related to the way these gifts are being achieved. Some trends include encouraging donors to give to student need aid funds and soliciting donors in a virtual way, which will be reflected in the types of visualizations that will be used. A mix of qualitative and quantitative data will give a well-rounded picture of the state of higher education advancement. 
+
+I also have access to datatsets from Carnegie Mellon, which I am able to use with permission from the University Advancement office of what is publicly accessible. 
+
+
 
 Below are a few sources I plan to use in my visualizations: 
 

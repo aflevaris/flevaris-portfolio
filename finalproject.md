@@ -29,8 +29,10 @@ Below is an outline of the story:
 ---Tools and trends to grow fundraising at your institution 
 
 ## Sketches
- ![Sketch 1](IMG_5539.JPG)
- ![Sketch 2](IMG_5540.JPG)
+ ![Sketch 1](IMG_5539.jpg)
+ 
+ 
+ ![Sketch 2](IMG_5540.jpg)
  
  
 ## Data

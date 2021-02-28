@@ -29,8 +29,10 @@ Below is an outline of the story:
 ---Tools and trends to grow fundraising at your institution 
 
 ## Sketches
-
-
+ ![Sketch 1](IMG_5539.JPG)
+ ![Sketch 2](IMG_5540.JPG)
+ 
+ 
 ## Data
 
 The data will come from a variety of sources, which work directly with universities to survey them and report out on the data that they receive. While some fundraising data is conifdential, organizations such as The Council for Advancement and Support of Education (CASE), The Chronice of Philanthropy, National Conference of State Legislatures (NCSL), and Insider HigherEd publish some of their results. For any interesting topic that I cannot get large datatsets for, I will pull the data directly from the data visualizations that they have put forth in their reporting. These trusted sources in the industry will help me tell the story of the past, present, and future of fundraising in higher education. I also have access to large datatsets from Carnegie Mellon, which I am able to use with permission from the University Advancement office. 

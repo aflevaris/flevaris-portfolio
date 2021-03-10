@@ -3,6 +3,11 @@
 
 ## Storyboards
 
+As I created my storyboards, I focused on the path of the story arch that I had created for Part 1 of the project process. 
+
+ ![Sketch 1](IMG_5540.jpg)
+ 
+Shown in the graph is the general direction of my story as I shifted my focus to looking at the past, present, and future of higher education fundraising as it is faced with hurdling the COVID-19 pandemic. 
 
 
 ## User Research
@@ -58,7 +63,8 @@ Thank you so much for your time. I look forward to sharing the final product wit
 
 
 ### Findings 
-After drafting out the script and coming up with multiple questions, I felt that asking 10 questions of each person felt excessive and time-consuming, so I decided to limit to three to five questions per person based on the categories of *clarity of story*, *readability*, and *issues that need to be addressed*. 
+After drafting out the script and coming up with multiple questions, I felt that asking 10 questions of each person felt excessive and time-consuming, so I decided to limit to three to five questions per person based on the categories of *clarity of story*, *readability*, and *issues that need to be addressed*. The most difficult task would be to get these individuals to explain *why* they feel a certain way about their feedback. Sometimes it's preference, but other times it's a critical issue with the visualization that I may not have noticed. 
+
 ### Changes to Implement Before Final Project
 
 

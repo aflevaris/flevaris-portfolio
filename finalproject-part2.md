@@ -9,6 +9,9 @@ As I created my storyboards, I focused on the path of the story arch that I had 
  
 Shown in the graph is the general direction of my story as I shifted my focus to looking at the past, present, and future of higher education fundraising as it is faced with hurdling the COVID-19 pandemic. 
 
+The main visualizations will be important to showcase the majoy growth fundraising had in 2019, the effects COVID-19 had in 2020 including furloughs and loss of donors, some successes that happened as higher education institutions pivoted their efforts, and finally tools and trends that look to be sticking around post-pandemic. 
+
+The data I found supported my initial proposal that higher ed fundraising across the country was growing at an exponenital pace. Donors felt engaged with universities through communications, events, and direct relationships with university staff and students. I wanted this graph to be reflective of the excitement that was building, leading into 2020. 
 
 ## User Research
 
@@ -67,6 +70,8 @@ After drafting out the script and coming up with multiple questions, I felt that
 
 ### Changes to Implement Before Final Project
 
+
+## References 
 
 
 

@@ -58,8 +58,7 @@ Thank you so much for your time. I look forward to sharing the final product wit
 
 
 ### Findings 
-
-
+After drafting out the script and coming up with multiple questions, I felt that asking 10 questions of each person felt excessive and time-consuming, so I decided to limit to three to five questions per person based on the categories of *clarity of story*, *readability*, and *issues that need to be addressed*. 
 ### Changes to Implement Before Final Project
 
 

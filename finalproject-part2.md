@@ -18,6 +18,8 @@ As we get into 2020, the story becomes much more personal and upsetting. The ind
 
 Universities began to get a hang of the virtual world and fundraising in a pandemic, with some universities actually having better fundraising years than ever before. Donors realized that personal connection when it came to supporting student aid support funds, world events inspiring more support to diversity equity and includion efforts, and resonating with the idea of supporting scholarships and fellowships to keep students learning in their (often times virtual) classrooms and labs. 
 
+As university leaders look ahead to the future, they will need to be mindful of the upcoming trends in the industry. A lot of what was innovated for use during COVID-19 will still continue into the future, including virtual programming and engagement. I wanted to showcase the top trends in a visually pleasing format: being comfortable adapting to a hybrid world, expanding "high-end" digital engagement, and focusing on showcasing the impact of giving. 
+
 
 ## User Research
 

@@ -13,6 +13,12 @@ The main visualizations will be important to showcase the majoy growth fundraisi
 
 The data I found supported my initial proposal that higher ed fundraising across the country was growing at an exponenital pace. Donors felt engaged with universities through communications, events, and direct relationships with university staff and students. I wanted this graph to be reflective of the excitement that was building, leading into 2020. 
 
+As we get into 2020, the story becomes much more personal and upsetting. The industry was disrupted by a global event, leaving every institution without guidance on how to move forward with asking for gifts when the market was crashing and people were losing their jobs, including university staff. The mood for this section needs to be much more serious than the excitement from the visualizations about growth in the beginning and the innovation to come in the future section.
+
+
+Universities began to get a hang of the virtual world and fundraising in a pandemic, with some universities actually having better fundraising years than ever before. Donors realized that personal connection when it came to supporting student aid support funds, world events inspiring more support to diversity equity and includion efforts, and resonating with the idea of supporting scholarships and fellowships to keep students learning in their (often times virtual) classrooms and labs. 
+
+
 ## User Research
 
 ### Target Audience

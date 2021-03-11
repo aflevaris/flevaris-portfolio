@@ -76,6 +76,12 @@ Thank you so much for your time. I look forward to sharing the final product wit
 ### Findings 
 After drafting out the script and coming up with multiple questions, I felt that asking 10 questions of each person felt excessive and time-consuming, so I decided to limit to three to five questions per person based on the categories of *clarity of story*, *readability*, and *issues that need to be addressed*. The most difficult task would be to get these individuals to explain *why* they feel a certain way about their feedback. Sometimes it's preference, but other times it's a critical issue with the visualization that I may not have noticed. 
 
+My expectation was that each group would have different priorities, but ultimately, they had similar thoughts and goals. When it came to clarity of the story, they felt that they understood the idea of what I was attempting to get across. Their perspectives on story, understanding, and issues were very interesting. 
+
+* JI - "I think you're trying to say things were going great in philanthropy, then the pandemic happened and no industry was unscathed by it. But with pivoting, higher ed was able to adjust and pivot, and some institutions have more to teach than others. I feel like what's missing is what happened to those people that were furloughed. Do they hire them back or do they not need them as staff anymore in this new world? That's my biggest issue." 
+* JR - "I like that all the visualizations are different - you didn't just use a bunch of pie charts or something. I have no issues following what they mean or confusion about what you're trying to say with them. The audience for this is probably other fundraisers? That would be my guess. I don't know if the average person cares about this as much as the people doing the fundraising. A question I have is WHY fundraising was going so well in the beggining. I get the COVID story and the changing direction and then looking to the future. Maybe it doesn't need to be a whole other visualization, just some context as a caption."
+* YZ - "This project is very helpful for me to see! I really want to see the final product and look more into the data you pulled. You put the sources but I would also want to look at the articles themselves that you pulled some of this from. 
+
 ### Changes to Implement Before Final Project
 
 

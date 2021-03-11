@@ -9,12 +9,13 @@ As I created my storyboards, I focused on the path of the story arch that I had 
  
 Shown in the graph is the general direction of my story as I shifted my focus to looking at the past, present, and future of higher education fundraising as it is faced with hurdling the COVID-19 pandemic. 
 
-The main visualizations will be important to showcase the majoy growth fundraising had in 2019, the effects COVID-19 had in 2020 including furloughs and loss of donors, some successes that happened as higher education institutions pivoted their efforts, and finally tools and trends that look to be sticking around post-pandemic. 
+The main visualizations will be important to showcase the majoy growth fundraising had in 2019, the effects COVID-19 had in 2020 including furloughs and loss of donors, some successes that happened as higher education institutions pivoted their efforts, and finally tools and trends that look to be sticking around post-pandemic. My goal is to keep the mood hopeful throughout. Using green felt appropriate as we talk about money, as well as using accents of orange to balance it out. 
+
+https://www.canva.com/design/DAEYaSRrAQw/view
 
 The data I found supported my initial proposal that higher ed fundraising across the country was growing at an exponenital pace. Donors felt engaged with universities through communications, events, and direct relationships with university staff and students. I wanted this graph to be reflective of the excitement that was building, leading into 2020. 
 
 As we get into 2020, the story becomes much more personal and upsetting. The industry was disrupted by a global event, leaving every institution without guidance on how to move forward with asking for gifts when the market was crashing and people were losing their jobs, including university staff. The mood for this section needs to be much more serious than the excitement from the visualizations about growth in the beginning and the innovation to come in the future section.
-
 
 Universities began to get a hang of the virtual world and fundraising in a pandemic, with some universities actually having better fundraising years than ever before. Donors realized that personal connection when it came to supporting student aid support funds, world events inspiring more support to diversity equity and includion efforts, and resonating with the idea of supporting scholarships and fellowships to keep students learning in their (often times virtual) classrooms and labs. 
 

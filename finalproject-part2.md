@@ -11,7 +11,20 @@ Shown in the graph is the general direction of my story as I shifted my focus to
 
 The main visualizations will be important to showcase the majoy growth fundraising had in 2019, the effects COVID-19 had in 2020 including furloughs and loss of donors, some successes that happened as higher education institutions pivoted their efforts, and finally tools and trends that look to be sticking around post-pandemic. My goal is to keep the mood hopeful throughout. Using green felt appropriate as we talk about money, as well as using accents of orange to balance it out. 
 
-https://www.canva.com/design/DAEYaSRrAQw/view
+To view Moodboard and Storyboard on separate platform: https://www.canva.com/design/DAEYaSRrAQw/view
+
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 80.0000%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEYaSRrAQw&#x2F;view?embed">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEYaSRrAQw&#x2F;view?utm_content=DAEYaSRrAQw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">The Past, Present, and Future of Higher Education Fundraisinge</a> by Amber Flevaris
+
+
 
 The data I found supported my initial proposal that higher ed fundraising across the country was growing at an exponenital pace. Donors felt engaged with universities through communications, events, and direct relationships with university staff and students. I wanted this graph to be reflective of the excitement that was building, leading into 2020. 
 

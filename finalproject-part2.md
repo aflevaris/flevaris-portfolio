@@ -99,6 +99,10 @@ My expectation was that each group would have different priorities, but ultimate
 ### Changes to Implement Before Final Project
 When I put the final product together, I want to make sure I do more to be explantory. The main issue across the board with the storyboard seemed to be not enough text. As I use Shorthand, I will make sure to add at least one additional sentence of background so that people can get all the information that they need. I liked YZ's note about sources. It didn't occur to me how important it would be for any university leaders to take the supplementary information to help in decision-making for the university. I am also considering adding in additional intoductory info to help set the stage better. Two people question the "why" of two of my graphs, which I found interesting. It's important for me to explain succinctly about why fundraising happened in the beginning. I don't view the rehiring staff as part of the narrative, so I won't be incorporating that in the final product. 
 
+* Create a compelling, yet succicinct introduction to set the stage for the narrative
+* Have a reference page at the end, including links to publicly-accessible articles that back up the data
+* Make sure colors continue seamlessly throughout the project 
+ 
 ## References 
 
 

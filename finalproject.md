@@ -7,32 +7,32 @@ The focus of my project will be the impact that the COVID-19 pandemic has had on
 
 Below is an outline of the story:
 
--Introduction with data on University Advancement
+* Introduction with data on University Advancement
 
 
 
 
--Data Analysis and Current Situation
+* Data Analysis and Current Situation
 
----Growth in 2018-2019 for undustry as a whole
+** Growth in 2018-2019 for undustry as a whole
 
----COVID-19's impact on higher education in 2020, including furloughs, loss of donors 
-
-
-
-
--Examples of Growth 
-
----CMU's fundraising growth
-
----Opportunities and trends across the full industry
+** COVID-19's impact on higher education in 2020, including furloughs, loss of donors 
 
 
 
 
--Call to Action 
+* Examples of Growth 
 
----Tools and trends to grow fundraising at your institution 
+** CMU's fundraising growth
+
+** Opportunities and trends across the full industry
+
+
+
+
+* Call to Action 
+
+** Tools and trends to grow fundraising at your institution 
 
 ## Sketches
  ![Sketch 1](IMG_5539.jpg)

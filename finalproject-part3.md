@@ -13,12 +13,12 @@ An important thing I learned from the user research was that my colleague, who h
 
 ### References Used 
 
-Chronicle of Philanthropy - https://www.philanthropy.com/article/buoyed-by-small-donors-giving-grew-10-6-in-2020-study-finds?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_2103645_nl_Philanthropy-Today_date_20210315&cid=pt&source=&sourceId=&cid2=gen_login_refresh
-Inside HigherEd - https://www.insidehighered.com/capital_campaign
-CASE - https://www.case.org/resources/voluntary-support-education-survey
-CASE - https://www.case.org/system/files/media/file/VSE%20Research%20Brief%231_1.30.20_WEB.pdf
-NCSL - https://www.ncsl.org/research/education/higher-education-responses-to-coronavirus-covid-19.aspx
-Inside HigherEd - https://www.insidehighered.com/news/2020/02/06/college-and-university-fundraising-rises-growth-slows-down
-Insider HigherEd - https://www.insidehighered.com/news/2020/06/08/survey-forecasts-%E2%80%98dramatic-decline%E2%80%99-fundraising-pandemic
-Chronicle of Philanthropy - https://www.philanthropy.com/article/overall-giving-ticked-up-slightly-in-2020-but-online-giving-exploded-report-says
-Pexels - all photos - https://www.pexels.com/
+* Chronicle of Philanthropy - https://www.philanthropy.com/article/buoyed-by-small-donors-giving-grew-10-6-in-2020-study-finds?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_2103645_nl_Philanthropy-Today_date_20210315&cid=pt&source=&sourceId=&cid2=gen_login_refresh
+* Inside HigherEd - https://www.insidehighered.com/capital_campaign
+* CASE - https://www.case.org/resources/voluntary-support-education-survey
+* CASE - https://www.case.org/system/files/media/file/VSE%20Research%20Brief%231_1.30.20_WEB.pdf
+* NCSL - https://www.ncsl.org/research/education/higher-education-responses-to-coronavirus-covid-19.aspx
+* Inside HigherEd - https://www.insidehighered.com/news/2020/02/06/college-and-university-fundraising-rises-growth-slows-down
+* Insider HigherEd - https://www.insidehighered.com/news/2020/06/08/survey-forecasts-%E2%80%98dramatic-decline%E2%80%99-fundraising-pandemic
+* Chronicle of Philanthropy - https://www.philanthropy.com/article/overall-giving-ticked-up-slightly-in-2020-but-online-giving-exploded-report-says
+* Pexels - all photos - https://www.pexels.com/

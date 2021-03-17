@@ -8,10 +8,13 @@ My work here at the university involves a lot of donor-related data, and I have 
 
 ## Portfolio
 
-### Link to final project page: https://aflevaris.github.io/flevaris-portfolio/finalproject
+### Links to Final Project: 
+#### Part 1 - https://aflevaris.github.io/flevaris-portfolio/finalproject
+#### Part 2 - https://aflevaris.github.io/flevaris-portfolio/finalproject-part2
+#### Part 3/Final - https://carnegiemellon.shorthandstories.com/amberflevaris-fundraising/index.html
 
 
-Visualizing Government Debt: 
+### Visualizing Government Debt: 
 
 <iframe src="https://data.oecd.org/chart/6gPh" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gPh" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
@@ -29,7 +32,7 @@ Using Flourish, I was able to manipulate the above data to create the following 
 
 What makes the dot plot unique from the other two charts is its ability to compare all of the countries over time, emphasizing the story that overall, all country's debt percentage related to GDP has grown over the years. In particular, Japan has shown a significant rise from the mid-1990s to today.  The audience is able to look at the story using their own tools, watching the data change over time or picking a specific year to analyze. Using the playthrough function, the reader can see the story happening before their own eyes without much explanation from the create. Highlighted are the US and Canada to show a comparison from Western countries that the audience may be more familiar with. The media has emphasized the high debt that the US has, which lends the reader to see how steep Japan has grown their debt in regards to percentage of GDP. The first graph does a good job at showing that Japan and the other countries in 2018, the second graph shows the progression of each of country over the years, but only the third graph shows both of those attibutes together. In both the first and third visualizations, I used color to emphasize the appropriate points (Japan, USA, Canada) and gray for the other data points. 
 
-## Homework 3 and 4: Critique by Design 
+### Homework 3 and 4: Critique by Design 
 
 ![Initial Graph](EuRmJ6sXcAQIuXs.jpg)
 Link to visualization: https://twitter.com/dave_andersen/status/1362054094563737601 

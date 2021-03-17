@@ -11,7 +11,8 @@ My work here at the university involves a lot of donor-related data, and I have 
 ### Links to Final Project: 
 #### Part 1 - https://aflevaris.github.io/flevaris-portfolio/finalproject
 #### Part 2 - https://aflevaris.github.io/flevaris-portfolio/finalproject-part2
-#### Part 3/Final - https://carnegiemellon.shorthandstories.com/amberflevaris-fundraising/index.html
+#### Part 3 - https://aflevaris.github.io/flevaris-portfolio/finalproject-part3
+#### Final - https://carnegiemellon.shorthandstories.com/amberflevaris-fundraising/index.html
 
 
 ### Visualizing Government Debt: 

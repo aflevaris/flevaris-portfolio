@@ -1,5 +1,11 @@
 # Final Project - Amber Flevaris
 
+### Links to Final Project:
+* Part 1 - https://aflevaris.github.io/flevaris-portfolio/finalproject
+* Part 2 - https://aflevaris.github.io/flevaris-portfolio/finalproject-part2
+* Part 3 - https://aflevaris.github.io/flevaris-portfolio/finalproject-part3
+* Final - https://carnegiemellon.shorthandstories.com/amberflevaris-fundraising/index.html
+
 ## Outline
 
 The focus of my project will be the impact that the COVID-19 pandemic has had on university fundraising in the United States for 2020 and how to best recover from it in 2021. University fundraising was growing exponentially, until COVID-19 happened and now schools are scrambling to reclaim that growth. As a reader, I want to understand the affect the pandemic has had on university fundraising so that I can make changes to better regrow philanthropy at my institution. My call call to action is that they can do this by understanding trends in the industry such as focusing on student aid funds and university need as fundraising tools. The audience for this story would ideally be leaders in university advancement across the United States, but it's important to remember that the audience for this presentation is fellow classmates with limited knowledge of institutional fundraising. 

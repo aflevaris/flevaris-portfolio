@@ -1,6 +1,12 @@
 
 # Final Project Part II
 
+### Links to Final Project:
+* Part 1 - https://aflevaris.github.io/flevaris-portfolio/finalproject
+* Part 2 - https://aflevaris.github.io/flevaris-portfolio/finalproject-part2
+* Part 3 - https://aflevaris.github.io/flevaris-portfolio/finalproject-part3
+* Final - https://carnegiemellon.shorthandstories.com/amberflevaris-fundraising/index.html
+
 ## Storyboards
 
 As I created my storyboards, I focused on the path of the story arch that I had created for Part 1 of the project process. 
@@ -103,7 +109,6 @@ When I put the final product together, I want to make sure I do more to be expla
 * Have a reference page at the end, including links to publicly-accessible articles that back up the data
 * Make sure colors continue seamlessly throughout the project 
  
-## References 
 
 
 
